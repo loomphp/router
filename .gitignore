@@ -1,0 +1,11 @@
+.idea
+.editorconfig
+.phpunit.result.cache
+build
+composer.lock
+composer.phar
+vendor
+clover.xml
+coveralls-upload.json
+phpunit.xml
+temp
